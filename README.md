@@ -7,5 +7,5 @@ Copy pia-16.png from the icons directory into /home/USERNAME/.share/datahjelpen/
 Now run the following commands:
 
 1. meson build
-2. ninja install
-
+2. cd build
+3. ninja install
